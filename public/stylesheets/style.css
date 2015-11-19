@@ -1,0 +1,63 @@
+
+header{
+  background-color: #1E1F2A;
+  color: #F02C41;
+}
+
+html, body{
+  height: 100%;
+}
+
+h1{
+    color: #F02C41;
+}
+
+body{
+  background-color: #1E1F2A;
+}
+
+h2{
+  color: #EFF8FE;
+}
+
+p{
+  color: #1E1F2A;
+}
+
+a {
+  color: #F02C41;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+input{
+  width: 200px;
+  margin: 10px 0;
+}
+
+#zombie{
+  display: block;
+  margin: 0 auto;
+  position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-100%);
+  -ms-transform: translateY(-100%);
+  transform: translateY(-100%);
+  text-align: center;
+  width: 300px;
+}
+
+.restaurant{
+  background-color: #f7f6f8;
+  padding: 30px;
+}
+
+.restaurant a{
+  width: 100%;
+  display: block;
+}
+
+.restaurant img{
+  float: left;
+}
+
